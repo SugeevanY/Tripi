@@ -26,7 +26,7 @@ const Nav = ({openNav}:Props) => {
     },[])
 
     return (
-        <div className={`bg-blue-950 ${
+        <div className={` ${
             navBg ? 'bg-blue-950 shadow-md ':"fixed"
             } transition-all duration-200 h-[12vh] z-[1000] fixed w-full`}
             >
