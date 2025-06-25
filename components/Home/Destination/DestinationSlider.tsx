@@ -46,11 +46,7 @@ const DestinationSlider = () => {
                         width={500} 
                         height={500} 
                         className='h-full w-full object-cover rounded-lg'
-                        />
-
-
-                    
-                    
+                        />                                      
                        </div>
 
                 </div>
