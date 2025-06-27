@@ -25,19 +25,15 @@ const Review = () => {
                                 <FaStar className='text-white' />
                                 <FaStar className='text-white' />
                                 <FaStar className='text-white' />
-
                             </div>
                         </div>
-
                     </div>
                 </div>
                 {/* Slider */}
                 <div className='overflow-hidden'>
-                    <ReviewSlider/>
-
+                    <ReviewSlider />
                 </div>
             </div>
-
         </div>
     )
 }
