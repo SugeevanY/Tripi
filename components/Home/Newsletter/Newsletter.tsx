@@ -19,10 +19,12 @@ const Newsletter = () => {
                 rounded-lg outline-none ' 
               placeholder='Email' 
             />
-            <button className='px-6 py-3.5 bg-blue-900 text-white hover:bg-blue-950 transition-all duration-200 mt-3 w-[95%] sm:w-[80%] md:w-[60%] lg:w-[40%] block mx-auto
-                rounded-lg outline-none '>Subscribe</button>
-        </div>
-        
+            <button className='px-6 py-3.5 bg-blue-900 text-white hover:bg-blue-950 
+            transition-all duration-200 mt-3 w-[95%] sm:w-[80%] md:w-[60%] lg:w-[40%] block mx-auto
+            rounded-lg outline-none '>
+                Subscribe
+            </button>
+        </div>    
     </div>
   )
 }
